@@ -1,0 +1,133 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,400,700&display=swap');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.active {
+    border-bottom: 2px solid $primary;
+    padding-bottom: 5px!important;
+}
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h-screen {
+    height: 100vh;
+}
+
+nav a {
+    color: $primary!important;
+}
+
+// .full-height {
+//     height: 80vh;
+// }
+
+// .flex-center {
+//     align-items: center;
+//     display: flex;
+//     justify-content: center;
+// }
+
+// .d-flex {
+//     display: flex;
+// }
+
+// .flex-direction-column {
+//     flex-direction: column;
+// }
+
+// .position-ref {
+//     position: relative;
+// }
+
+// .top-right {
+//     position: absolute;
+//     right: 10px;
+//     top: 18px;
+// }
+
+// .content {
+//     text-align: center;
+// }
+
+// .title {
+//     font-size: 84px;
+// }
+
+// .links > a {
+//     color: #636b6f;
+//     padding: 0;
+//     margin: 0 25px;
+//     font-size: 13px;
+//     font-weight: 600;
+//     letter-spacing: .1rem;
+//     text-decoration: none;
+//     text-transform: uppercase;
+// }
+
+// .m-b-md {
+//     margin-bottom: 30px;
+// }
+
+// .position-center {
+//     display: flex;
+//     justify-content: center;
+// }
+
+// .padding-0 {
+//     padding: 0;
+// }
+
+// .container {
+//     max-width: 1200px;
+//     width: 95%;
+//     margin: auto;
+// }
+
+// button {
+//     background: crimson;
+//     border-radius: 5px;
+//     color: white;
+//     border: none;
+//     padding: 5px 15px;
+//     transition: .2s;
+//     cursor: pointer;
+// }
+
+// button:hover {
+//     transform: translateY(-3px);
+// }
+
+// input, textarea {
+//     margin: 0 5px 15px 0;
+//     padding: 8px 15px;
+//     font-family: 'Poppins', sans-serif;
+//     font-size: 16px;
+//     outline: none;
+//     display: block;
+// }
+
+// input:focus {
+//     border-color: aquamarine;
+// }
+
+// textarea {
+//     width: 100%;
+//     display: block;
+//     height: 50px;
+//     resize: none;
+// }
+
+// .d-inline {
+//     display: inline;
+//     background: gray;
+// }
+
+
+
